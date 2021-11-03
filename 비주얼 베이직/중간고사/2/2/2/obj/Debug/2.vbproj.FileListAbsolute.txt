@@ -1,0 +1,11 @@
+E:\비주얼 베이직\중간고사\2\2\2\bin\Debug\2.exe.config
+E:\비주얼 베이직\중간고사\2\2\2\bin\Debug\2.exe
+E:\비주얼 베이직\중간고사\2\2\2\bin\Debug\2.pdb
+E:\비주얼 베이직\중간고사\2\2\2\bin\Debug\2.xml
+E:\비주얼 베이직\중간고사\2\2\2\obj\Debug\2.vbprojResolveAssemblyReference.cache
+E:\비주얼 베이직\중간고사\2\2\2\obj\Debug\_2.Form1.resources
+E:\비주얼 베이직\중간고사\2\2\2\obj\Debug\_2.Resources.resources
+E:\비주얼 베이직\중간고사\2\2\2\obj\Debug\2.vbproj.GenerateResource.Cache
+E:\비주얼 베이직\중간고사\2\2\2\obj\Debug\2.exe
+E:\비주얼 베이직\중간고사\2\2\2\obj\Debug\2.xml
+E:\비주얼 베이직\중간고사\2\2\2\obj\Debug\2.pdb

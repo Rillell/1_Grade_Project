@@ -1,0 +1,15 @@
+D:\비주얼 베이직\기말고사\배열-아스키\배열-아스키\bin\Debug\배열-아스키.exe.config
+D:\비주얼 베이직\기말고사\배열-아스키\배열-아스키\bin\Debug\배열-아스키.exe
+D:\비주얼 베이직\기말고사\배열-아스키\배열-아스키\bin\Debug\배열-아스키.pdb
+D:\비주얼 베이직\기말고사\배열-아스키\배열-아스키\bin\Debug\배열-아스키.xml
+D:\비주얼 베이직\기말고사\배열-아스키\배열-아스키\obj\Debug\배열-아스키.vbprojResolveAssemblyReference.cache
+D:\비주얼 베이직\기말고사\배열-아스키\배열-아스키\obj\Debug\배열_아스키.Form1.resources
+D:\비주얼 베이직\기말고사\배열-아스키\배열-아스키\obj\Debug\배열_아스키.Resources.resources
+D:\비주얼 베이직\기말고사\배열-아스키\배열-아스키\obj\Debug\배열-아스키.vbproj.GenerateResource.Cache
+D:\비주얼 베이직\기말고사\배열-아스키\배열-아스키\obj\Debug\배열-아스키.exe
+D:\비주얼 베이직\기말고사\배열-아스키\배열-아스키\obj\Debug\배열-아스키.xml
+D:\비주얼 베이직\기말고사\배열-아스키\배열-아스키\obj\Debug\배열-아스키.pdb
+E:\비주얼 베이직\기말고사\배열-아스키\배열-아스키\bin\Debug\배열-아스키.exe.config
+E:\비주얼 베이직\기말고사\배열-아스키\배열-아스키\obj\Debug\배열-아스키.exe
+E:\비주얼 베이직\기말고사\배열-아스키\배열-아스키\obj\Debug\배열-아스키.xml
+E:\비주얼 베이직\기말고사\배열-아스키\배열-아스키\obj\Debug\배열-아스키.pdb

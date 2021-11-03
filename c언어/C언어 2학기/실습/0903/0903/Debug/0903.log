@@ -1,0 +1,4 @@
+﻿  0903.cpp
+e:\c언어\c언어 2학기\실습\0903\0903\0903.cpp(14): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  0903.vcxproj -> E:\c언어\C언어 2학기\실습\0903\Debug\0903.exe
+  0903.vcxproj -> E:\c언어\C언어 2학기\실습\0903\Debug\0903.pdb (Full PDB)

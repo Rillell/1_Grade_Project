@@ -1,0 +1,19 @@
+C:\Users\ahyun\Documents\Visual Studio 2015\Projects\2019-1-11주차-자작함수-김유빈\2019-1-11주차-자작함수-김유빈\bin\Debug\2019-1-11주차-자작함수-김유빈.exe.config
+C:\Users\ahyun\Documents\Visual Studio 2015\Projects\2019-1-11주차-자작함수-김유빈\2019-1-11주차-자작함수-김유빈\bin\Debug\2019-1-11주차-자작함수-김유빈.exe
+C:\Users\ahyun\Documents\Visual Studio 2015\Projects\2019-1-11주차-자작함수-김유빈\2019-1-11주차-자작함수-김유빈\bin\Debug\2019-1-11주차-자작함수-김유빈.pdb
+C:\Users\ahyun\Documents\Visual Studio 2015\Projects\2019-1-11주차-자작함수-김유빈\2019-1-11주차-자작함수-김유빈\bin\Debug\2019-1-11주차-자작함수-김유빈.xml
+C:\Users\ahyun\Documents\Visual Studio 2015\Projects\2019-1-11주차-자작함수-김유빈\2019-1-11주차-자작함수-김유빈\obj\Debug\2019-1-11주차-자작함수-김유빈.vbprojResolveAssemblyReference.cache
+C:\Users\ahyun\Documents\Visual Studio 2015\Projects\2019-1-11주차-자작함수-김유빈\2019-1-11주차-자작함수-김유빈\obj\Debug\_2019_1_11주차_자작함수_김유빈.Form1.resources
+C:\Users\ahyun\Documents\Visual Studio 2015\Projects\2019-1-11주차-자작함수-김유빈\2019-1-11주차-자작함수-김유빈\obj\Debug\_2019_1_11주차_자작함수_김유빈.Resources.resources
+C:\Users\ahyun\Documents\Visual Studio 2015\Projects\2019-1-11주차-자작함수-김유빈\2019-1-11주차-자작함수-김유빈\obj\Debug\2019-1-11주차-자작함수-김유빈.vbproj.GenerateResource.Cache
+C:\Users\ahyun\Documents\Visual Studio 2015\Projects\2019-1-11주차-자작함수-김유빈\2019-1-11주차-자작함수-김유빈\obj\Debug\2019-1-11주차-자작함수-김유빈.exe
+C:\Users\ahyun\Documents\Visual Studio 2015\Projects\2019-1-11주차-자작함수-김유빈\2019-1-11주차-자작함수-김유빈\obj\Debug\2019-1-11주차-자작함수-김유빈.xml
+C:\Users\ahyun\Documents\Visual Studio 2015\Projects\2019-1-11주차-자작함수-김유빈\2019-1-11주차-자작함수-김유빈\obj\Debug\2019-1-11주차-자작함수-김유빈.pdb
+D:\비주얼 베이직\기말고사\2019-1-11주차-자작함수-김유빈\2019-1-11주차-자작함수-김유빈\bin\Debug\2019-1-11주차-자작함수-김유빈.exe.config
+D:\비주얼 베이직\기말고사\2019-1-11주차-자작함수-김유빈\2019-1-11주차-자작함수-김유빈\obj\Debug\2019-1-11주차-자작함수-김유빈.exe
+D:\비주얼 베이직\기말고사\2019-1-11주차-자작함수-김유빈\2019-1-11주차-자작함수-김유빈\obj\Debug\2019-1-11주차-자작함수-김유빈.xml
+D:\비주얼 베이직\기말고사\2019-1-11주차-자작함수-김유빈\2019-1-11주차-자작함수-김유빈\obj\Debug\2019-1-11주차-자작함수-김유빈.pdb
+E:\비주얼 베이직\기말고사\2019-1-11주차-자작함수-김유빈\2019-1-11주차-자작함수-김유빈\bin\Debug\2019-1-11주차-자작함수-김유빈.exe.config
+E:\비주얼 베이직\기말고사\2019-1-11주차-자작함수-김유빈\2019-1-11주차-자작함수-김유빈\obj\Debug\2019-1-11주차-자작함수-김유빈.exe
+E:\비주얼 베이직\기말고사\2019-1-11주차-자작함수-김유빈\2019-1-11주차-자작함수-김유빈\obj\Debug\2019-1-11주차-자작함수-김유빈.xml
+E:\비주얼 베이직\기말고사\2019-1-11주차-자작함수-김유빈\2019-1-11주차-자작함수-김유빈\obj\Debug\2019-1-11주차-자작함수-김유빈.pdb

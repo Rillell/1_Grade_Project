@@ -1,0 +1,4 @@
+﻿  1022.cpp
+e:\c언어\c언어 2학기\1022\1022\1022.cpp(26): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'double'입니다.
+  1022.vcxproj -> E:\c언어\C언어 2학기\1022\Debug\1022.exe
+  1022.vcxproj -> E:\c언어\C언어 2학기\1022\Debug\1022.pdb (Full PDB)

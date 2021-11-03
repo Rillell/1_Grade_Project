@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+2019-1-12주차-마우스로동작하는계산기-김유빈-레포트(20)
+</name>
+</assembly>
+<members>
+<member name="T:_2019_1_12주차_마우스로동작하는계산기_김유빈_레포트_20_.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:_2019_1_12주차_마우스로동작하는계산기_김유빈_레포트_20_.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:_2019_1_12주차_마우스로동작하는계산기_김유빈_레포트_20_.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>
